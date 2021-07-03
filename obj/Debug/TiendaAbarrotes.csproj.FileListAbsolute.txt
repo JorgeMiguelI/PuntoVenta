@@ -1,0 +1,34 @@
+C:\Users\juan carlos\source\repos\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.csprojAssemblyReference.cache
+C:\Users\juan carlos\source\repos\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.FormBase.resources
+C:\Users\juan carlos\source\repos\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.Properties.Resources.resources
+C:\Users\juan carlos\source\repos\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.csproj.GenerateResource.cache
+C:\Users\juan carlos\source\repos\TiendaAbarrotes\TiendaAbarrotes\bin\Debug\TiendaAbarrotes.exe.config
+C:\Users\juan carlos\source\repos\TiendaAbarrotes\TiendaAbarrotes\bin\Debug\TiendaAbarrotes.exe
+C:\Users\juan carlos\source\repos\TiendaAbarrotes\TiendaAbarrotes\bin\Debug\TiendaAbarrotes.pdb
+C:\Users\juan carlos\source\repos\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.csproj.CoreCompileInputs.cache
+C:\Users\juan carlos\source\repos\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.exe
+C:\Users\juan carlos\source\repos\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.pdb
+C:\Users\juan carlos\source\repos\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.Ventas.resources
+C:\Users\juan carlos\source\repos\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.ContenedorPrincipal.resources
+D:\Microsoft Visual Studio Projects\TiendaAbarrotes\TiendaAbarrotes\bin\Debug\TiendaAbarrotes.exe.config
+D:\Microsoft Visual Studio Projects\TiendaAbarrotes\TiendaAbarrotes\bin\Debug\TiendaAbarrotes.exe
+D:\Microsoft Visual Studio Projects\TiendaAbarrotes\TiendaAbarrotes\bin\Debug\TiendaAbarrotes.pdb
+D:\Microsoft Visual Studio Projects\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio Projects\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.ContenedorPrincipal.resources
+D:\Microsoft Visual Studio Projects\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.FormBase.resources
+D:\Microsoft Visual Studio Projects\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.Properties.Resources.resources
+D:\Microsoft Visual Studio Projects\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.Ventas.resources
+D:\Microsoft Visual Studio Projects\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio Projects\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.exe
+D:\Microsoft Visual Studio Projects\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.pdb
+D:\Microsoft Visual Studio Projects\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.Existencia.resources
+D:\Microsoft Visual Studio Projects\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.Actualizar_Prod.resources
+D:\Microsoft Visual Studio Projects\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.AltasProductos.resources
+D:\Microsoft Visual Studio Projects\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.bajasProductos.resources
+D:\Microsoft Visual Studio Projects\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.Compras.resources
+D:\Microsoft Visual Studio Projects\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.ContactoCliente.resources
+D:\Microsoft Visual Studio Projects\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.VentaCredito.resources
+D:\Microsoft Visual Studio Projects\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.Reporte.resources
+D:\Microsoft Visual Studio Projects\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.Productos_Surtir.resources
+D:\Microsoft Visual Studio Projects\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.Consulta_Venta.resources
+D:\Microsoft Visual Studio Projects\TiendaAbarrotes\TiendaAbarrotes\obj\Debug\TiendaAbarrotes.Inicio.resources
